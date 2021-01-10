@@ -1,2 +1,5 @@
-# html-freebie-portfolio-perfect
-One page template, a great choice for creating a personal portfolio website, including services, projects and contact form with nice and smooth scrolling through the sections. Modern and clean HTML5 template, perfect for your online CV.
+### Haseeb Ullah Abbasi
+
+# I am highly motivated and energetic Computer Science student who believe in learning by solving challenging tasks, through online platforms and working among expert developers. ger to perform valuable work using computer programming skills. 
+
+
